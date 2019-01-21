@@ -1,0 +1,3 @@
+agent_id,agent_service_type,from_origin_node_id,to_destination_node_id,VRP_group_id,vehicle_seat_capacity,departure_time_in_min,earliest_departure_time,departure_time_window,latest_arrival_time,arrival_time_window
+0,2,0,9,10,1,10,10,0,60,0
+1,2,0,9,10,1,10,10,0,60,0

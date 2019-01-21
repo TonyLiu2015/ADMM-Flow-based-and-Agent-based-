@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\atlmfc\include\afx.h(15): fatal error C1189: #error:  MFC requires C++ compilation (use a .cpp suffix)

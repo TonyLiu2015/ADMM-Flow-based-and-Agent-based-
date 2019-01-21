@@ -1,0 +1,3 @@
+agent_id,agent_service_type,origin_node_id,destination_node_id,cost,departure_time_in_min,path_node_sequence,path_link_sequence,path_load_sequence,path_time_sequence, path_travel_time
+0,2,0,9,31.750000,10.0,0;1;2;3;4;5;8;9;,1;2;3;5;9;10;,1;,13;23;24;25;26;36;37;47;,34
+1,2,0,9,35.250000,10.0,0;1;2;3;4;5;8;9;,1;2;3;5;9;10;,1;,13;23;24;25;26;36;37;47;,34
